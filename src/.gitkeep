@@ -1,0 +1,7 @@
+# Adaptive Learning Algorithm
+
+This folder contains all source code for the German Words Network project.
+
+- `network.py`: Network logic and visualization
+- `utils.py`: Text preprocessing and word pair extraction
+- `main.py`: Main entry point

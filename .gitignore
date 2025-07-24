@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Data files
+/data/
+
+# HTML output
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Temporary Test files
+/german-words-pyvis/
+germanWordNetworkAnalyse.py
+ala.js 
+
+# venv
+/ala/
+
